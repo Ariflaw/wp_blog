@@ -1,5 +1,3 @@
-Start talking: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/holger1411/understrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-
 UnderStrap WordPress Theme Framework
 ===
 
@@ -20,7 +18,7 @@ Changelog
                    - Cleanup
                    - Updating dependencies
                    - Upgrade to Bootstrap 3.3.6 and Font Awesome 4.5.0
-                   
+
 
             - **0.3.4 SEP. 9th 2015**
                    - Adding basic WooCommerce support
@@ -48,12 +46,12 @@ Changelog
 
             - **0.2.6 Dec. 28th 2014**
                     - CLean up
-                    
-                    
+
+
             - **0.2 Dec. 22th 2014**
                     - Adding Jasny Off-Canvas nav and Owl.Carousel Slider script
                     - Enqueue scipts and styled dynamically
-                                   
+
             - **0.1 Dec. 10th 2014 - First commit**
 
 About
@@ -102,13 +100,13 @@ Installation
 =
 - Download the understrap folder
 - Upload it into your WordPress installation subfolder here: /wp-content/themes/
-- Login to your WordPress backend 
+- Login to your WordPress backend
 - Go to Appearance -> Themes
 - Activate the UnderStrap theme
 
 How to use the build-in Widget Slider?
 =
 The frontpage slider is widget driven. Simply add more than one widget to widget position.
-- Click on Appearance -> Widgets 
+- Click on Appearance -> Widgets
 - Add two or more widgets of any kind to widget area "Hero"
 - Thats it
