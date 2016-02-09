@@ -7966,3 +7966,6 @@ a.skip-link {
 
 .fa-percent:before {
   content: ""; }
+
+body {
+  background-color: #000; }
